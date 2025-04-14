@@ -17,15 +17,11 @@ const ourInterval = setInterval(() => {
   if (input.value == Number(user1.innerText) && input.value != "") {
     user1.setAttribute("style", "color:green");
     user2.setAttribute("style", "color:red");
-
-    clearInterval(ourInterval);
   }
 
   if (input.value == Number(user2.innerText) && input.value != "") {
     user2.setAttribute("style", "color:green");
     user1.setAttribute("style", "color:red");
-
-    clearInterval(ourInterval);
   }
 });
 
