@@ -34,4 +34,4 @@ Here’s a preview of the project in action:
 
 - **HTML5**: For structuring the content.
 - **Bootstrap**: For styling.
-- **JavaScript_setInterval**: For fetching the date from the input without using button.
+- **JavaScript**: For interacting the content.
