@@ -1,4 +1,4 @@
-# Wallet App Website
+# Score Tracker Website
 
 The project let user track score.
 
